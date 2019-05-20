@@ -1,0 +1,12 @@
+{
+  "name": "nutricare",
+  "description": "website institucional da nutricare, projeto desenvolvido durante o curso de Bootstrap 4 ministrado na plataforma de cursos online da alura",
+  "require": {
+    "almasaeed2010/adminlte": "~2.4",
+    "components/jquery": "^3.3",
+    "twbs/bootstrap": "4.3.1"
+  },
+  "require-dev": {
+
+  }
+}
